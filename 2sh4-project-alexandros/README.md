@@ -1,2 +1,6 @@
-The FINAL PROJECT in COMPENG 2SH4, was to create the game "Snake" in C++
+A remake of the classic game "Snake" in C++
+
+Use the WASD keys to move
+The snake can wrap around the wall and come out the other side
+Do not run into yourself or it's game over!
 
